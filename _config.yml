@@ -1,0 +1,15 @@
+title: "Dr. Tijo D"
+email: "tijodev@gmail.com"
+description: "Assistant Professor (Senior) | Mechanical Engineering | Production Engineering"
+theme: minima
+
+# Navigation menu (Minima supports header pages)
+header_pages:
+  - index.md
+  - about.md
+  - education.md
+  - achievements.md
+  - projects.md
+  - cv.md
+
+markdown: kramdown
